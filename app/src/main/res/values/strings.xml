@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hamahama</string>
+    <string name="id">id</string>
+    <string name="passwd">password</string>
+    <string name="OK">OK</string>
+    <string name="cancel">CALCEL</string>
+</resources>

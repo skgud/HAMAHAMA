@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553647808911",
+    "project_id": "hamahama-65972",
+    "storage_bucket": "hamahama-65972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553647808911:android:5d4d09320c635434e82bfa",
+        "android_client_info": {
+          "package_name": "com.example.hamahama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553647808911-eb829i4if3p6itjckf2i14p81t2uts56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vZaa6smJpv4EWOKdOkvxXZU5rIpMkUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553647808911-eb829i4if3p6itjckf2i14p81t2uts56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
